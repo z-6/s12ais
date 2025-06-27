@@ -1,3 +1,4 @@
+## Season 12 Ais
 - Bot-lobbies
 - Mythic weapons spawn as normal floor loot
 - Vehicles
